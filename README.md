@@ -1,4 +1,2 @@
 "# PracticaIoT" 
-"# PracticaIoT" 
-"# PracticaIoT" 
-"# PracticaIoT" 
+
